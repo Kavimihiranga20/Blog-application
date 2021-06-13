@@ -6,7 +6,7 @@ export default function Sidebar() {
             <div className = "sidebarItem">
                 <span className ="sidebarTitle">ABOUT ME</span>
                 <img className="sidebarImg"
-                src ="https://images.pexels.com/photos/6337422/pexels-photo-6337422.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                src ="https://images.unsplash.com/photo-1561426802-392f5b6290cf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
                     alt="about me"
                 />
 
